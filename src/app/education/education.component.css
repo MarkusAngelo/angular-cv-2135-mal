@@ -1,0 +1,10 @@
+body {
+  justify-content: left;
+  text-align: left;
+  font-size: medium;
+  margin: 0 0 0 5%;
+}
+
+p {
+  margin-left: 5%;
+}

@@ -1,0 +1,14 @@
+li {
+  text-align: left;
+}
+
+body {
+  border: none;
+  margin: 0 4%;
+}
+
+.list-group {
+  border: 2px solid black;
+  border-radius: 12px;
+  width: 80%;
+}
